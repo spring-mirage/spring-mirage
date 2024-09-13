@@ -1,7 +1,6 @@
 
  <a href="https://github.com/spring-mirage/github-readme-stats" ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spring-mirage&layout=compact&theme=material-palenight&hide_border=true" /></a>
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spring-mirage&layout=donut-vertical)](https://github.com/spring-mirage/github-readme-stats)
+ <a href="https://github.com/spring-mirage/github-readme-stats" ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spring-mirage&layout=donut-vertical" /></a>
  
 ###   Nilson Diaz
 ###   Dev Full-Stack
