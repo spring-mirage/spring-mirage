@@ -1,5 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    ###   Nilson Diaz
+    ###   Dev Full-Stack
     <div id="badges" align="center">
       <a href="www.linkedin.com/in/spring-mirage">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,15 +16,13 @@
         <img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=pink" alt="Instagram Badge"/>
       </a>
     </div>
-    <a href="https://github.com/spring-mirage/github-readme-stats" ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spring-mirage&layout=donut-vertical&theme=material-palenight&hide_border=true" /></a>
 </div>
 
 
 
  
  
-###   Nilson Diaz
-###   Dev Full-Stack
+
   
 <code><img height="20" alt="JavaScript" src="https://img.icons8.com/color/48/javascript--v1.png"></code>
 <code><img height="20" alt="React" src="https://img.icons8.com/office/40/react.png"></code>
