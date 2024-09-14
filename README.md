@@ -43,7 +43,7 @@
 ![Twitch Status](https://img.shields.io/twitch/status/springmiragelol)
 
 
-<picture align="center">
+<div align="center">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=spring-mirage&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -53,4 +53,4 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=spring-mirage&show_icons=true" />
-</picture>
+</div>
