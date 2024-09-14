@@ -29,14 +29,14 @@
  
 
   
-<code><img height="25" alt="JavaScript" src="https://img.icons8.com/color/48/javascript--v1.png"></code>
-<code><img height="20" alt="React" src="https://img.icons8.com/office/40/react.png"></code>
-<code><img height="20" alt="Tailwind" src="https://img.icons8.com/color/48/tailwindcss.png"></code>
-<code><img height="20" alt="MongoDB" src="https://img.icons8.com/color/48/mongodb.png"></code> 
-<code><img height="20" alt="Nodejs" src="https://img.icons8.com/color/48/nodejs.png"></code> 
-<code><img height="20" alt="Java" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"></code> 
-<code><img height="20" alt="Python" src="https://img.icons8.com/color/48/python--v1.png"></code> 
-<code><img height="20" alt="MySQL" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-MySQL-programming-and-development-those-icons-flat-those-icons.png"></code> 
+<code><img height="30" alt="JavaScript" src="https://img.icons8.com/color/48/javascript--v1.png"></code>
+<code><img height="30" alt="React" src="https://img.icons8.com/office/40/react.png"></code>
+<code><img height="30" alt="Tailwind" src="https://img.icons8.com/color/48/tailwindcss.png"></code>
+<code><img height="30" alt="MongoDB" src="https://img.icons8.com/color/48/mongodb.png"></code> 
+<code><img height="30" alt="Nodejs" src="https://img.icons8.com/color/48/nodejs.png"></code> 
+<code><img height="30" alt="Java" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"></code> 
+<code><img height="30" alt="Python" src="https://img.icons8.com/color/48/python--v1.png"></code> 
+<code><img height="30" alt="MySQL" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-MySQL-programming-and-development-those-icons-flat-those-icons.png"></code> 
 
 
 
