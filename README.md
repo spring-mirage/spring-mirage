@@ -19,7 +19,7 @@
     <br/>
 </div>
 
-<a href="https://github.com/spring-mirage/github-readme-stats" ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spring-mirage&layout=compact&theme=material-palenight&hide_border=true" /></a>
+<a href="https://github.com/spring-mirage/github-readme-stats" ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /></a>
 
 ###   Nilson Diaz
 ###   Dev Full-Stack
