@@ -14,11 +14,12 @@
         <img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=pink" alt="Instagram Badge"/>
       </a>
     </div>
+    <a href="https://github.com/spring-mirage/github-readme-stats" ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spring-mirage&layout=donut-vertical&theme=material-palenight&hide_border=true" /></a>
 </div>
 
 
 
- <a href="https://github.com/spring-mirage/github-readme-stats" ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spring-mirage&layout=donut-vertical&theme=material-palenight&hide_border=true" /></a>
+ 
  
 ###   Nilson Diaz
 ###   Dev Full-Stack
