@@ -29,7 +29,7 @@
  
 
   
-<code><img height="20" alt="JavaScript" src="https://img.icons8.com/color/48/javascript--v1.png"></code>
+<code><img height="25" alt="JavaScript" src="https://img.icons8.com/color/48/javascript--v1.png"></code>
 <code><img height="20" alt="React" src="https://img.icons8.com/office/40/react.png"></code>
 <code><img height="20" alt="Tailwind" src="https://img.icons8.com/color/48/tailwindcss.png"></code>
 <code><img height="20" alt="MongoDB" src="https://img.icons8.com/color/48/mongodb.png"></code> 
