@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
       </a>
       <a href="https://www.twitter.com/springmiragelol">
-        <img src="https://img.shields.io/badge/X-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+        <img src="https://img.shields.io/badge/XTwitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
       <a href="https://www.instagram.com/wolfymirage/">
         <img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=pink" alt="Instagram Badge"/>
