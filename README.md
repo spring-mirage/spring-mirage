@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=pink" alt="Instagram Badge"/>
       </a>
     </div>
-    <img src="https://komarev.com/ghpvc/?username=your-github-spring-mirage&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=spring-mirage&style=flat-square&color=blue" alt=""/>
     <br/>
     <br/>
 </div>
