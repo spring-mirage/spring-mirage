@@ -46,6 +46,9 @@
 ![Twitch Status](https://img.shields.io/twitch/status/springmiragelol)
 
 <br/>
+---
+
+### :man_technologist: About Me :
 <br/>
 
 <div id="header" align="center">
