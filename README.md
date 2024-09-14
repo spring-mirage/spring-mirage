@@ -3,13 +3,13 @@
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
     <div id="badges" align="center">
       <a href="www.linkedin.com/in/spring-mirage">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
       </a>
       <a href="https://www.youtube.com/@springmirage">
         <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=red" alt="Youtube Badge"/>
       </a>
       <a href="https://www.twitter.com/springmiragelol">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+        <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
       </a>
       <a href="https://www.instagram.com/wolfymirage/">
         <img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=pink" alt="Instagram Badge"/>
