@@ -36,6 +36,7 @@
 <code><img height="20" alt="Nodejs" src="https://img.icons8.com/color/48/nodejs.png"></code> 
 <code><img height="20" alt="Java" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"></code> 
 <code><img height="20" alt="Python" src="https://img.icons8.com/color/48/python--v1.png"></code> 
+<code><img height="20" alt="MySQL" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-MySQL-programming-and-development-those-icons-flat-those-icons.png"></code> 
 
 
 
