@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif?cid=ecf05e47pmta489d56s79xyuby87dpk16370bmbeoz6qqdrt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+    <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif?cid=ecf05e47sgxt3iz38je27fgza2u994lu5yiwa22zox0u1sen&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
     <div id="badges" align="center">
       <a href="www.linkedin.com/in/spring-mirage">
         <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
