@@ -12,6 +12,9 @@
   <a href="https://www.twitter.com/springmiragelol">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://www.instagram.com/wolfymirage/">
+    <img src="https://img.shields.io/badge/instagram-black?logo=instagram&logoColor=pink" alt="Instagram Badge"/>
+  </a>
 </div>
 
  <a href="https://github.com/spring-mirage/github-readme-stats" ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spring-mirage&layout=donut-vertical&theme=material-palenight&hide_border=true" /></a>
