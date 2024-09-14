@@ -42,6 +42,8 @@
 
 ![Twitch Status](https://img.shields.io/twitch/status/springmiragelol)
 
+<br/>
+<br/>
 
 <div id="header" align="center">
     <picture>
