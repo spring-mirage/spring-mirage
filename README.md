@@ -42,7 +42,7 @@
 <code><img height="30" alt="NestJs" src="https://img.icons8.com/color/48/nestjs.png"></code> 
 <code><img height="30" alt="Express" src="https://img.icons8.com/nolan/64/express-js.png"></code> 
 <code><img height="30" alt="Sass" src="https://img.icons8.com/color/48/sass.png"></code>
-<div style="display: inline-block;">
+<div style="display: inline;">
     <div style="display: inline-block; background-color: #f0f0f0; padding: 5px; border-radius: 5px; margin: 5px;">
       <img height="30" alt="JavaScript" src="https://img.icons8.com/color/48/javascript--v1.png">
     </div>
