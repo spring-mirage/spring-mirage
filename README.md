@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
     <img src="https://i0.wp.com/codingzap.com/wp-content/uploads/2022/12/modern_3d_illustration_of_young_man_programming_concept-ai.png?fit=2048%2C1368&ssl=1" width="400"/>
-    <div id="badges" align="center">
+    <div id="badges" align="center" style="color: red">
       <a href="www.linkedin.com/in/spring-mirage">
         <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
       </a>
