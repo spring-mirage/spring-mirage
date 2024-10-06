@@ -19,7 +19,7 @@
     <br/>
     <br/>
 </div>
-<div id="header" align="center">
+<div id="header" align="left">
 <img height="30" alt="JavaScript" src="https://img.icons8.com/color/48/javascript--v1.png" style="margin-right: 5px;">
 <img height="30" alt="React" src="https://img.icons8.com/office/40/react.png" style="margin-right: 5px;">
 <img height="30" alt="Tailwind" src="https://img.icons8.com/color/48/tailwindcss.png" style="margin-right: 5px;">
