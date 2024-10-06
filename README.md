@@ -31,7 +31,7 @@
  
 
 
-<code><div style="background-color:#f0f0f0; padding: 10px; display:inline-block;">
+<code><div style="background-color:#f0f0f0;">
   <img height="30" alt="JavaScript" src="https://img.icons8.com/color/48/javascript--v1.png">
 </div></code>
 <code><img height="30" alt="JavaScript" src="https://img.icons8.com/color/48/javascript--v1.png"></code>
