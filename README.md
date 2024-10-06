@@ -20,28 +20,6 @@
     <br/>
     <br/>
 </div>
-
-<a href="https://github.com/spring-mirage/github-readme-stats" ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spring-mirage&layout=donut&theme=material-palenight&hide_border=true" /></a>
-
-###   Nilson Diaz
-###   Dev Full-Stack
-
-
- 
- 
-
-
-<code><img height="30" alt="JavaScript" src="https://img.icons8.com/color/48/javascript--v1.png"></code>
-<code><img height="30" alt="React" src="https://img.icons8.com/office/40/react.png"></code>
-<code><img height="30" alt="Tailwind" src="https://img.icons8.com/color/48/tailwindcss.png"></code>
-<code><img height="30" alt="MongoDB" src="https://img.icons8.com/color/48/mongodb.png"></code> 
-<code><img height="30" alt="Nodejs" src="https://img.icons8.com/color/48/nodejs.png"></code> 
-<code><img height="30" alt="Java" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"></code> 
-<code><img height="30" alt="Python" src="https://img.icons8.com/color/48/python--v1.png"></code> 
-<code><img height="30" alt="MySQL" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-MySQL-programming-and-development-those-icons-flat-those-icons.png"></code> 
-<code><img height="30" alt="NestJs" src="https://img.icons8.com/color/48/nestjs.png"></code> 
-<code><img height="30" alt="Express" src="https://img.icons8.com/nolan/64/express-js.png"></code> 
-<code><img height="30" alt="Sass" src="https://img.icons8.com/color/48/sass.png"></code>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <div style="background-color: #f0f0f0; padding: 5px; border-radius: 5px;">
     <img height="30" alt="JavaScript" src="https://img.icons8.com/color/48/javascript--v1.png">
@@ -77,6 +55,28 @@
     <img height="30" alt="Sass" src="https://img.icons8.com/color/48/sass.png">
   </div>
 </div>
+
+<a href="https://github.com/spring-mirage/github-readme-stats" ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spring-mirage&layout=donut&theme=material-palenight&hide_border=true" /></a>
+
+###   Nilson Diaz
+###   Dev Full-Stack
+
+
+ 
+ 
+
+
+<code><img height="30" alt="JavaScript" src="https://img.icons8.com/color/48/javascript--v1.png"></code>
+<code><img height="30" alt="React" src="https://img.icons8.com/office/40/react.png"></code>
+<code><img height="30" alt="Tailwind" src="https://img.icons8.com/color/48/tailwindcss.png"></code>
+<code><img height="30" alt="MongoDB" src="https://img.icons8.com/color/48/mongodb.png"></code> 
+<code><img height="30" alt="Nodejs" src="https://img.icons8.com/color/48/nodejs.png"></code> 
+<code><img height="30" alt="Java" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"></code> 
+<code><img height="30" alt="Python" src="https://img.icons8.com/color/48/python--v1.png"></code> 
+<code><img height="30" alt="MySQL" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-MySQL-programming-and-development-those-icons-flat-those-icons.png"></code> 
+<code><img height="30" alt="NestJs" src="https://img.icons8.com/color/48/nestjs.png"></code> 
+<code><img height="30" alt="Express" src="https://img.icons8.com/nolan/64/express-js.png"></code> 
+<code><img height="30" alt="Sass" src="https://img.icons8.com/color/48/sass.png"></code>
 
 
 
