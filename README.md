@@ -19,6 +19,16 @@
     <br/>
     <br/>
 </div>
+
+<a href="https://github.com/spring-mirage/github-readme-stats" ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spring-mirage&layout=donut&theme=material-palenight&hide_border=true" /></a>
+
+###   Nilson Diaz
+###   Dev Full-Stack
+
+
+ 
+ 
+
 <div id="header" align="left">
 <img height="30" alt="JavaScript" src="https://img.icons8.com/color/48/javascript--v1.png" style="margin-right: 5px;">
 <img height="30" alt="React" src="https://img.icons8.com/office/40/react.png" style="margin-right: 5px;">
@@ -33,17 +43,6 @@
 <img height="30" alt="Sass" src="https://img.icons8.com/color/48/sass.png" style="margin-right: 5px;">
 
 </div>
-
-<a href="https://github.com/spring-mirage/github-readme-stats" ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spring-mirage&layout=donut&theme=material-palenight&hide_border=true" /></a>
-
-###   Nilson Diaz
-###   Dev Full-Stack
-
-
- 
- 
-
-
 <code><img height="30" alt="JavaScript" src="https://img.icons8.com/color/48/javascript--v1.png"></code>
 <code><img height="30" alt="React" src="https://img.icons8.com/office/40/react.png"></code>
 <code><img height="30" alt="Tailwind" src="https://img.icons8.com/color/48/tailwindcss.png"></code>
