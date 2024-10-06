@@ -41,8 +41,7 @@
 <code><img height="30" alt="MySQL" src="https://img.icons8.com/external-those-icons-flat-those-icons/24/external-MySQL-programming-and-development-those-icons-flat-those-icons.png"></code> 
 <code><img height="30" alt="NestJs" src="https://img.icons8.com/color/48/nestjs.png"></code> 
 <code><img height="30" alt="Express" src="https://img.icons8.com/nolan/64/express-js.png"></code> 
-<code><img height="30" alt="Sass" src="https://img.icons8.com/color/48/sass.png"></code> 
-![Twitch Status]<code><img height="30" alt="PHP" src="https://img.icons8.com/sf-black-filled/64/php.png"></code> 
+<code><img height="30" alt="Sass" src="https://img.icons8.com/color/48/sass.png"></code>
 
 
 
