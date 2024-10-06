@@ -30,7 +30,10 @@
  
  
 
-  
+
+<code><div style="background-color:#f0f0f0; padding: 10px; display:inline-block;">
+  <img height="30" alt="JavaScript" src="https://img.icons8.com/color/48/javascript--v1.png">
+</div></code>
 <code><img height="30" alt="JavaScript" src="https://img.icons8.com/color/48/javascript--v1.png"></code>
 <code><img height="30" alt="React" src="https://img.icons8.com/office/40/react.png"></code>
 <code><img height="30" alt="Tailwind" src="https://img.icons8.com/color/48/tailwindcss.png"></code>
