@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
     <img src="https://i0.wp.com/codingzap.com/wp-content/uploads/2022/12/modern_3d_illustration_of_young_man_programming_concept-ai.png?fit=2048%2C1368&ssl=1" width="400"/>
-    <div id="badges" align="center" style="color: red">
+    <div id="badges" align="center">
       <a href="www.linkedin.com/in/spring-mirage">
         <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
       </a>
@@ -31,7 +31,7 @@
  
 
   
-<code><img height="30" alt="JavaScript" src="https://img.icons8.com/color/48/javascript--v1.png"></code>
+<code style="color: background-color:white"><img height="30" alt="JavaScript" src="https://img.icons8.com/color/48/javascript--v1.png"></code>
 <code><img height="30" alt="React" src="https://img.icons8.com/office/40/react.png"></code>
 <code><img height="30" alt="Tailwind" src="https://img.icons8.com/color/48/tailwindcss.png"></code>
 <code><img height="30" alt="MongoDB" src="https://img.icons8.com/color/48/mongodb.png"></code> 
