@@ -31,7 +31,7 @@
  
 
   
-<code style="color: background-color:white"><img height="30" alt="JavaScript" src="https://img.icons8.com/color/48/javascript--v1.png"></code>
+<code><img height="30" alt="JavaScript" src="https://img.icons8.com/color/48/javascript--v1.png"></code>
 <code><img height="30" alt="React" src="https://img.icons8.com/office/40/react.png"></code>
 <code><img height="30" alt="Tailwind" src="https://img.icons8.com/color/48/tailwindcss.png"></code>
 <code><img height="30" alt="MongoDB" src="https://img.icons8.com/color/48/mongodb.png"></code> 
@@ -52,7 +52,7 @@
 
 <br/>
 ---
-
+# ${This\ is\ a\ {\color{red}Big}}\ Title$
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Perú <img width="15" src="https://img.icons8.com/color/48/peru.png" alt="peru"/>
 - :telescope: I’m working as a Web Developer and contributing to frontend and backend for building web applications.
