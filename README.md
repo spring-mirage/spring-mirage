@@ -63,7 +63,7 @@
 
 
 
-![Twitch Status](https://img.shields.io/twitch/status/springmiragelol)
+![Twitch Status](https://img.shields.io/twitch/status/wolfyzlol)
 
 <br/>
 ---
