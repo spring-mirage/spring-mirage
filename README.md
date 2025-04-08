@@ -42,6 +42,7 @@
     <img height="30" alt="Express" src="https://img.icons8.com/nolan/64/express-js.png" style="margin-right: 5px;">
     <img height="30" alt="Sass" src="https://img.icons8.com/color/48/sass.png" style="margin-right: 5px;">
     <img height="30" alt="TypeScript" src="https://img.icons8.com/color/48/typescript.png" style="margin-right: 5px;">
+    <img height="30" alt="Vuejs" src="https://img.icons8.com/color/48/vue-js.png" style="margin-right: 5px;">
 </div>
 
 <!--
