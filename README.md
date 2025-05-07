@@ -1,10 +1,10 @@
 <div id="header" align="center">
     <img src="https://i0.wp.com/codingzap.com/wp-content/uploads/2022/12/modern_3d_illustration_of_young_man_programming_concept-ai.png?fit=2048%2C1368&ssl=1" width="400"/>
     <div id="badges" align="center">
-      <a href="www.linkedin.com/in/spring-mirage">
+      <a href="https://www.linkedin.com/in/spring-mirage">
         <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
       </a>
-      <a href="https://www.youtube.com/@springmirage">
+      <a href="https://www.youtube.com/@wolfyzlol">
         <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=red" alt="Youtube Badge"/>
       </a>
       <a href="https://www.twitter.com/springmiragelol">
