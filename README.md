@@ -23,7 +23,7 @@
 <a href="https://github.com/spring-mirage/github-readme-stats" ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spring-mirage&layout=donut&theme=material-palenight&hide_border=true" /></a>
 
 ###   Nilson Diaz
-###   Dev Full-Stack
+###   Software Engineer - Cybersecurity Analyst
 
 
  
@@ -70,7 +70,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Perú <img width="15" src="https://img.icons8.com/color/48/peru.png" alt="peru"/>
+I am a Software Engineer and Cybersecurity Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Perú <img width="15" src="https://img.icons8.com/color/48/peru.png" alt="peru"/>
 - :telescope: I’m working as a Web Developer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring opportunities for personal and professional development.
