@@ -46,6 +46,8 @@
     <img height="30" alt="AWS" src="https://img.icons8.com/color/50/amazon-web-services.png" style="margin-right: 5px;">
     <img height="30" alt="Google Cloud" src="https://img.icons8.com/color/50/google-cloud.png" style="margin-right: 5px;">
     <img height="30" alt="Kali Linux" src="https://img.icons8.com/color/48/kali-linux.png" style="margin-right: 5px;">
+    <img height="30" alt="Firebase" src="https://img.icons8.com/color/48/firebase.png" style="margin-right: 5px;">
+    <img height="30" alt="Azure" src="https://img.icons8.com/color/48/azure-1.png" style="margin-right: 5px;">
 </div>
 
 <!--
