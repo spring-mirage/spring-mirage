@@ -43,7 +43,9 @@
     <img height="30" alt="Sass" src="https://img.icons8.com/color/48/sass.png" style="margin-right: 5px;">
     <img height="30" alt="TypeScript" src="https://img.icons8.com/color/48/typescript.png" style="margin-right: 5px;">
     <img height="30" alt="Vuejs" src="https://img.icons8.com/color/48/vue-js.png" style="margin-right: 5px;">
-    <img height="30" alt="Aws" src="https://img.icons8.com/color/50/amazon-web-services.png" style="margin-right: 5px;">
+    <img height="30" alt="AWS" src="https://img.icons8.com/color/50/amazon-web-services.png" style="margin-right: 5px;">
+    <img height="30" alt="Google Cloud" src="https://img.icons8.com/color/50/google-cloud.png" style="margin-right: 5px;">
+    <img height="30" alt="Kali Linux" src="https://img.icons8.com/color/48/kali-linux.png" style="margin-right: 5px;">
 </div>
 
 <!--
