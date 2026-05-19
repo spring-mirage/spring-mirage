@@ -43,7 +43,7 @@
     <img height="30" alt="Sass" src="https://img.icons8.com/color/48/sass.png" style="margin-right: 5px;">
     <img height="30" alt="TypeScript" src="https://img.icons8.com/color/48/typescript.png" style="margin-right: 5px;">
     <img height="30" alt="Vuejs" src="https://img.icons8.com/color/48/vue-js.png" style="margin-right: 5px;">
-    <img height="30" alt="aws" src="https://img.icons8.com/color/48/aws.png" style="margin-right: 5px;">
+    <img height="30" alt="aws" src="https://img.icons8.com/?size=100&id=iK5nmYtcsSTl&format=png&color=000000" style="margin-right: 5px;">
 </div>
 
 <!--
