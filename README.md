@@ -10,7 +10,7 @@
       <a href="https://www.twitter.com/springmiragelol">
         <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
       </a>
-      <a href="https://www.instagram.com/wolfymirage/">
+      <a href="https://www.instagram.com/wolfydev/">
         <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=pink" alt="Instagram Badge"/>
       </a>
     </div>
