@@ -49,6 +49,7 @@
     <img height="30" alt="Firebase" src="https://img.icons8.com/color/48/firebase.png" style="margin-right: 5px;">
     <img height="30" alt="Azure" src="https://img.icons8.com/color/48/azure-1.png" style="margin-right: 5px;">
     <img height="30" alt="burp-suite" src="https://img.icons8.com/ios-filled/50/FD7E14/burp-suite.png" style="margin-right: 5px;">
+    <img height="30" alt="wireshark" src="https://img.icons8.com/nolan/64/wireshark--v1.png" style="margin-right: 5px;">
 </div>
 
 <!--
