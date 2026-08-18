@@ -100,4 +100,8 @@ I am a Software Engineer and Ethical Hacker <img src="https://media.giphy.com/me
       />
       <img src="https://github-readme-stats.vercel.app/api?username=spring-mirage&show_icons=true" />
     </picture>
+
+    
 </div>
+ <div> <picture> <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=spring-mirage&theme=dark" /> </picture> </div>
+
