@@ -18,10 +18,7 @@
     <img src="https://komarev.com/ghpvc/?username=spring-mirage&style=flat-square" alt="New"/>
     <br/>
     <br/>
-    ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 </div>
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
-
 
 ###   Nilson Diaz
 ###   Software Engineer - Ethical Hacker
