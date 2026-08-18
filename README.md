@@ -20,8 +20,7 @@
     <br/>
 </div>
 
-<a href="https://github.com/spring-mirage/github-readme-stats" >
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spring-mirage&layout=donut&theme=material-palenight&hide_border=true" /></a>
+
 
 ###   Nilson Diaz
 ###   Software Engineer - Ethical Hacker
@@ -89,19 +88,7 @@ I am a Software Engineer and Ethical Hacker <img src="https://media.giphy.com/me
 <br/>
 
 <div id="header" align="center">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=spring-mirage&show_icons=true&theme=dark"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=spring-mirage&show_icons=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api?username=spring-mirage&show_icons=true" />
-    </picture>
 
-    
 </div>
  <div aling="center"> 
      <picture> <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=spring-mirage&theme=dark" /></picture> 
