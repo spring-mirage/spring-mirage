@@ -91,7 +91,7 @@ I am a Software Engineer and Ethical Hacker <img src="https://media.giphy.com/me
 
 </div>
  <div aling="center"> 
-     <picture> <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=spring-mirage&theme=dark" /></picture> 
+     <picture> <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=spring-mirage&theme=dark&title=stats" /></picture> 
      <picture> <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=spring-mirage&type=languages&theme=dark" /> </picture>
  </div>
 
