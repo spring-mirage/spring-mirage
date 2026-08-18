@@ -15,7 +15,7 @@
       </a>
     </div>
     <br/>
-    <img src="https://komarev.com/ghpvc/?username=your-spring-mirage&style=flat-square)e" alt="New"/>
+    <img src="https://komarev.com/ghpvc/?username=spring-mirage&style=flat-square)e" alt="New"/>
     <br/>
     <br/>
 </div>
